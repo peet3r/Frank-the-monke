@@ -1,0 +1,36 @@
+body{
+    background-color: black ;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display:flex;
+    justify-content:space-between ;
+    list-style-type:none;
+    align-items:center;
+    padding:16px;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+    align-items: center;
+}
+
+.frank {
+    text-align: center;
+}
+
+.gif {
+    text-align: center;
+    width: 1980px;
+    height: 450px;
+    border: none;
+}
+
+
